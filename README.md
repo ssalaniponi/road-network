@@ -1,2 +1,2 @@
 # road-network
-Road network and districts of the Central Region in Malawi.
+Python code to find the shortest path between any two districts in the road network of the Central Region in Malawi using a weighted graph data structure.
